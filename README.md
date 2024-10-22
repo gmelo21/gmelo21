@@ -11,8 +11,8 @@ I'm a passionate developer always looking to improve and take on new challenges.
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-melo-b469a92b5/)
-[![Discord](https://img.shields.io/badge/Discord-melokoyo-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/melokoyo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-melo-b469a92b5/)
+[![Discord](https://img.shields.io/badge/Discord-melokoyo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/melokoyo)
 
 ## 📈 GitHub Stats
 
