@@ -15,4 +15,4 @@ I'm a developer always looking to get things right. Whether it's working on proj
 
 ## - GitHub Stats:
 
-![Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmelo21&show_icons=true&theme=radical&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
+![Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmelo21&show_icons=true&theme=radical&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)
