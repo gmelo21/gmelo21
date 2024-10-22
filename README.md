@@ -12,6 +12,9 @@ I'm a developer always looking to get things right. Whether it's working on proj
 ## - Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-melo-b469a92b5/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GuilhermeMelo2105)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/melokoyo)
+[![Wokwi](https://img.shields.io/badge/Wokwi-green?style=for-the-badge&logoColor=white)](https://wokwi.com/makers/melokoyo)
 
 ## - GitHub Stats:
 
