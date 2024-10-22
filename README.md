@@ -12,7 +12,6 @@ I'm a developer always looking to get things right. Whether it's working on proj
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ec6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-melo-b469a92b5/)
 [![YouTube](https://img.shields.io/badge/YouTube-007ec6?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GuilhermeMelo2105)
-[![Discord](https://img.shields.io/badge/Discord-007ec6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/melokoyo)
 [![Wokwi](https://img.shields.io/badge/Wokwi-007ec6?style=for-the-badge&logoColor=white)](https://wokwi.com/makers/melokoyo)
 
 ## - GitHub Stats:
