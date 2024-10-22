@@ -7,7 +7,6 @@ I'm a developer always looking to get things right. Whether it's working on proj
 -  Currently diving into **React**, **Dash**, and **Excel**.
 -  Experienced in **Python**, **JavaScript**, **C++** *(specifically with IoT)*, and **Web Development**.
 -  It's not all about work! I also play piano, draw, and game when I’m off the clock.
--  Always striving to learn.
 
 ## - Connect with me:
 
