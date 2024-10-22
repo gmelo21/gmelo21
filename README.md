@@ -1,18 +1,19 @@
-# Hi there, I'm Guilherme 👋
+# Hi there, I'm Melo!
 
-I'm a passionate developer always looking to improve and take on new challenges. Whether it's working on cool projects, learning new technologies, or solving problems, I love being hands-on with code.
+I'm a developer always looking to get things right. Whether it's working on projects, learning new technologies, or solving problems, I stay determined to excel at what I do.
+Also a funny guy sometimes.
 
-## 🚀 About Me
+## - About Me:
 
-- 🌱 Currently diving into **React** and building awesome projects with **Dash** and **ESP32**.
-- 💻 Experienced in **JavaScript**, **Python**, **IoT**, and **Web Development**.
-- 🎮 When I'm not coding, you'll find me playing video games, finishing titles like **Owlboy**, **Breath of the Wild**, and **Earthbound**.
-- 🌍 Always curious about tech that impacts the world in a positive way!
+-  Currently diving into **React**, **Dash** and **Excel**.
+-  Experienced in **Python**, **JavaScript**, **C++** *(specifically with IoT)*, and **Web Development**.
+-  It's not all about work! I also play piano, draw, and game when I’m off the clock.
+-  Always striving to learn.
 
-## 🔗 Connect with me
+## - Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-melo-b469a92b5/)
 
-## 📈 GitHub Stats
+## - GitHub Stats:
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmelo21&show_icons=true&theme=radical)
+![Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmelo21&show_icons=true&theme=radical)
