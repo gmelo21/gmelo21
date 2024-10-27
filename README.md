@@ -1,6 +1,6 @@
 # Hi there, I'm Melo!
 
-I'm a developer always looking to get things right. Whether it's working on projects, learning new technologies, or solving problems, I stay determined to excel at what I do. Also a funny guy sometimes.
+I'm a developer always looking to get things right. Whether it's working on projects, learning new technologies, or solving problems, I stay determined to excel at what I do. 
 
 ## - About Me:
 
