@@ -1,6 +1,7 @@
 # Hi there, I'm Melo!
 
-I'm a developer always looking to get things right. Whether it's working on projects, learning new technologies, or solving problems, I stay determined to excel at what I do. 
+I'm a developer always looking to get things right. Whether it's working on projects, learning new technologies, or solving problems, I stay determined to succeed at what I do. 
+I'm 18yo and currently studying Software Engineering at FIAP, São Paulo.
 
 ## - About Me:
 
