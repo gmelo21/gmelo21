@@ -1,13 +1,13 @@
 # Hi there, I'm Melo!
 
 I'm a developer always looking to get things right. Whether it's working on projects, learning new technologies, or solving problems, I stay determined to succeed at what I do. 
-I'm 18yo and currently studying Software Engineering at FIAP, São Paulo.
+I'm 18yo and currently studying Software Engineering at FIAP, in São Paulo.
 
 ## - About Me:
 
 -  Currently diving into **React**, **Dash**, and **Excel**.
 -  Experienced in **Python**, **JavaScript**, **C++** *(specifically with IoT)*, and **Web Development**.
--  It's not all about work! I also play piano, draw, and game when I’m off the clock.
+-  It's not all about work! I also play piano, draw, and game (a lot) when I’m off the clock.
 
 ## - Connect with me:
 
