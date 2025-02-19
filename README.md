@@ -5,8 +5,8 @@ I'm 18yo and currently studying Software Engineering at FIAP, in São Paulo.
 
 ## - About Me:
 
--  Currently diving into **React**, **Dash**, and **Excel**.
--  Experienced in **Python**, **JavaScript**, **C++** *(specifically with IoT)*, and **Web Development**.
+-  Currently diving into **Java**, **Data science and Database design**, and **Excel**.
+-  Experienced in **Python**, **JavaScript**, **C++** and **Web Development**.
 -  It's not all about work! I also play piano, draw, and game (a lot) when I’m off the clock.
 
 ## - Connect with me:
