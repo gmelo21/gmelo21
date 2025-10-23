@@ -1,6 +1,3 @@
-Atualmente aprofundando em Java, Ciência de Dados e Design de Banco de Dados.
-Experiência em Python, JavaScript, C++ e Desenvolvimento Web.
-
 ## Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ec6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-melo-b469a92b5/)
